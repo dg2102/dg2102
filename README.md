@@ -1,4 +1,4 @@
-- 👋 Hi, I’m dg2102
+- 👋 Hi, I’m Debparna Ghatak
 - 👀 I’m interested in web development stuffs
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
